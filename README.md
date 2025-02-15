@@ -6,3 +6,7 @@ laporan screen shoot
 # Login
 
 ![Login Image](https://github.com/user-attachments/assets/35ac9555-0f49-4f25-a5d5-14d59e4f80e5)
+
+# Dashboard Karyawan
+
+![image](https://github.com/user-attachments/assets/1127821b-b158-4674-99ed-5a9e2313cb6e)
